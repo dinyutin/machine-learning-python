@@ -33,7 +33,7 @@
    * [Plot Hierarchical Clustering Dendrogram](Clustering/Plot_Hierarchical_Clustering_Dendrogram.md)
 * [支持向量機](SVM/EX1_Non_linear_SVM.md)
    * [EX 1:Non_linear_SVM.md](SVM/EX1_Non_linear_SVM.md)
-   * [EX 4: SVM_with _custom _kernel.md](SVM/EX4_SVM_with_custom_kernel.md)
+   * [EX 4: SVM_with _custom _kernel.md](SVM/EX4_SVM_with _custom _kernel.md)
 * [機器學習資料集 Datasets](Datasets/datasets.md)
    * [Ex 1: The digits 手寫數字辨識](Datasets/ex1_the_digits_dataset.md)
    * [Ex 2: Plot randomly generated classification dataset 分類數據集](Datasets/ex2_plot_random_dataset.md)
